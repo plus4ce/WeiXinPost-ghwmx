@@ -1,26 +1,26 @@
 # 公众号配置
 # 公众号appId
-app_id = "wx******************"
+app_id = "wx6b1a75d334dac8ee"
 # 公众号appSecret
-app_secret = "f9a80260d33******************"
+app_secret = "13179f8307074b734b6fdb4772c046cd"
 # 模板消息id
 # 每日消息
-template_id1 = "wX-************************************"
+template_id1 = "jt8r-qQhdLmY5ei9X20Cv5NLagZ3q4hHGexyM_S_umk"
 # 课程消息,上课提醒
-template_id2 = "loe1yHWr************************************"
+template_id2 = "m-aOUbktwHQ3LJi5Zc_oo_dtfd001ghaqWOWEzJfs7k"
 # 晚安心语
-template_id3 = "-fun9-2************************************"
+template_id3 = "_UO4zJPjD0SZIVu7F9ZhI60S-OO1s_Y08FoSUp8zikI"
 # 接收公众号消息的微信号
 # 这是openid
-user = ["ojhdR50T******************"]
+user = ["ow8NE6dtY26wAAEQCEYen7rLyylQ"]
 
 # 信息配置
 # 所在省份
-province = "四川"
+province = "浙江"
 # 所在城市
-city = "绵阳"
+city = "温州"
 # 生日，如果月份或者日期小于10，直接用对应的数字即可，例如1997-1-1，---------倒计时
-birthday = "2022-9-9"
+birthday = "2004-8-16"
 # 在一起的日子，格式同上------------计时器
 love_date = "2001-12-1"
 # 天行数据晚安心语 key
