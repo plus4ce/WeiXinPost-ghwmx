@@ -1,4 +1,4 @@
-name: weixinpost
+name: weixin
 on:
   workflow_dispatch
 jobs:
