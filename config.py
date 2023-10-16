@@ -2,7 +2,7 @@
 # 公众号appId
 app_id = "wx6b1a75d334dac8ee"
 # 公众号appSecret
-app_secret = "13179f8307074b734b6fdb4772c046cd"
+app_secret = "098504408b1dcbdf4194f5624a05712a"
 # 模板消息id
 # 每日消息
 template_id1 = "jt8r-qQhdLmY5ei9X20Cv5NLagZ3q4hHGexyM_S_umk"
